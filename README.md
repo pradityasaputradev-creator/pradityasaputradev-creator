@@ -32,3 +32,24 @@ Saya senang bereksperimen dengan teknologi web modern, menyusun alur aplikasi ya
 
 ### Alat Pengembangan
 <p align="left"><a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a></p>
+
+---
+
+## 📊 Statistik GitHub
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=pradityasaputradev-creator&show_icons=true&theme=tokyonight&hide_border=true" alt="Aditya's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradityasaputradev-creator&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pradityasaputradev-creator&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🤝 Mari Terhubung
+
+<p align="left">
+  <a href="https://github.com/pradityasaputradev-creator" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
