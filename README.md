@@ -1,21 +1,20 @@
-# 👋 Hai, saya Aditya!
+# 👋 Halo, saya Aditya!
 
 **Mahasiswa Informatika Universitas IPWIJA | Full-Stack Web Developer**
 
-Saya adalah mahasiswa Informatika di **Universitas IPWIJA** yang berfokus pada pengembangan web **Full-Stack**, mulai dari perancangan antarmuka hingga logika sistem dan *backend*.
+Saya adalah mahasiswa Informatika di **Universitas IPWIJA** yang berfokus pada pengembangan aplikasi web *full-stack*, mencakup perancangan antarmuka pengguna, alur interaksi sistem, hingga pengelolaan logika *backend* dan basis data.
 
-Saya senang bereksperimen dengan teknologi web modern, menyusun alur aplikasi yang rapi, dan membangun proyek-proyek menantang untuk terus meningkatkan keterampilan teknis saya.
+Terbiasa membangun aplikasi terstruktur menggunakan **Laravel**, **Blade**, **Tailwind CSS**, dan **MySQL**, serta terus mengembangkan proyek portofolio di GitHub untuk mengasah kualitas kode, arsitektur aplikasi, dan pengalaman pengguna.
 
 ---
 
 ## 🚀 Tentang Saya
 
-- 🎓 Mahasiswa Informatika Universitas IPWIJA.
-- 💻 Fokus pada pengembangan web **Full-Stack** menggunakan **Laravel**, **Blade**, dan **Tailwind CSS**.
-- 🌱 Saat ini aktif mendalami arsitektur aplikasi, alur *UI/UX* yang fungsional, dan lingkungan pengembangan modern.
-- 🛠️ Senang membangun proyek-proyek eksploratif sebagai sarana latihan dan portofolio di GitHub.
-- 🔍 Selalu penasaran tentang bagaimana antarmuka *frontend* bekerja selaras dengan logika *backend* di balik layar.
-- 🎯 Terus belajar dan membangun hal-hal baru yang relevan serta enak digunakan.
+- 🎓 Mahasiswa program studi **Informatika** di **Universitas IPWIJA**.
+- 💻 Mengembangkan aplikasi web *full-stack* dengan **Laravel**, **Blade**, dan **Tailwind CSS**.
+- 🗄️ Terbiasa merancang struktur data dan relasi tabel menggunakan **MySQL**.
+- 🛠️ Aktif membangun dan menyempurnakan proyek aplikasi nyata di GitHub sebagai portofolio teknis.
+- 🔍 Mengutamakan alur *UI/UX* yang jelas, konsistensi antarmuka, dan keterbacaan kode.
 
 ---
 
@@ -27,7 +26,7 @@ Saya senang bereksperimen dengan teknologi web modern, menyusun alur aplikasi ya
 ### Kerangka Kerja & Pustaka
 <p align="left"><a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" /></a></p>
 
-### Basis data
+### Basis Data
 <p align="left"><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a></p>
 
 ### Alat Pengembangan
