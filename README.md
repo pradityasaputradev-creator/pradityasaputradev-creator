@@ -1,17 +1,18 @@
 # 👋 Hai, saya Aditya!
 
-### Full-Stack Web Developer | Laravel & Tailwind CSS Enthusiast
+**Mahasiswa Informatika Universitas IPWIJA | Full-Stack Web Developer**
 
-Saya adalah pengembang web yang gemar merancang aplikasi fungsional menggunakan **Laravel** dan **Tailwind CSS**. Bagi saya, membangun perangkat lunak bukan sekadar menulis kode, melainkan memastikan setiap alur dan elemen antarmuka punya tujuan yang jelas bagi penggunanya.
+Saya adalah mahasiswa Informatika di **Universitas IPWIJA** yang berfokus pada pengembangan web **Full-Stack**, mulai dari perancangan antarmuka hingga logika sistem dan *backend*.
 
-Di luar rutinitas utama, saya senang menantang diri dengan membangun proyek-proyek eksploratif untuk mengasah logika sistem, kerapian struktur kode, dan pengalaman pengguna yang intuitif.
+Saya senang bereksperimen dengan teknologi web modern, menyusun alur aplikasi yang rapi, dan membangun proyek-proyek menantang untuk terus meningkatkan keterampilan teknis saya.
 
 ---
 
 ## 🚀 Tentang Saya
 
-- 💻 **Fokus Utama:** Pengembangan aplikasi web modern berbasis **Laravel**, **Blade**, dan **Tailwind CSS**.
-- 🧩 **Cara Kerja:** Mengutamakan kejelasan fungsi dan alur interaksi (*UI/UX*) sebelum mengeksekusi kode secara bertahap.
-- 🛠️ **Eksplorasi:** Aktif membangun proyek-proyek menantang sebagai sarana latihan dan portofolio di **GitHub**.
-- 🔍 **Ketertarikan:** Arsitektur *backend* yang bersih, desain antarmuka responsif, dan optimasi logika aplikasi.
-- 🎯 **Target:** Terus meningkatkan kualitas *codebase* dan menciptakan solusi digital yang relevan dan enak digunakan.
+- 🎓 Mahasiswa Informatika Universitas IPWIJA.
+- 💻 Fokus pada pengembangan web **Full-Stack** menggunakan **Laravel**, **Blade**, dan **Tailwind CSS**.
+- 🌱 Saat ini aktif mendalami arsitektur aplikasi, alur *UI/UX* yang fungsional, dan lingkungan pengembangan modern.
+- 🛠️ Senang membangun proyek-proyek eksploratif sebagai sarana latihan dan portofolio di GitHub.
+- 🔍 Selalu penasaran tentang bagaimana antarmuka *frontend* bekerja selaras dengan logika *backend* di balik layar.
+- 🎯 Terus belajar dan membangun hal-hal baru yang relevan serta enak digunakan.
