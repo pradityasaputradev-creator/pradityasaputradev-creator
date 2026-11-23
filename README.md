@@ -1,20 +1,21 @@
-# 👋 Halo, saya Aditya!
+# 👋 Hai, saya Aditya!
 
 **Mahasiswa Informatika Universitas IPWIJA | Full-Stack Web Developer**
 
-Saya adalah mahasiswa Informatika di **Universitas IPWIJA** yang berfokus pada pengembangan aplikasi web *full-stack*, mencakup perancangan antarmuka pengguna, alur interaksi sistem, hingga pengelolaan logika *backend* dan basis data.
+Saya adalah mahasiswa Informatika di **Universitas IPWIJA** yang berfokus pada pengembangan web **Full-Stack**, mulai dari perancangan antarmuka hingga logika sistem dan *backend*.
 
-Terbiasa membangun aplikasi terstruktur menggunakan **Laravel**, **Blade**, **Tailwind CSS**, dan **MySQL**, serta terus mengembangkan proyek portofolio di GitHub untuk mengasah kualitas kode, arsitektur aplikasi, dan pengalaman pengguna.
+Saya senang bereksperimen dengan teknologi web modern, menyusun alur aplikasi yang rapi, dan membangun proyek-proyek menantang untuk terus meningkatkan keterampilan teknis saya.
 
 ---
 
 ## 🚀 Tentang Saya
 
-- 🎓 Mahasiswa program studi **Informatika** di **Universitas IPWIJA**.
-- 💻 Mengembangkan aplikasi web *full-stack* dengan **Laravel**, **Blade**, dan **Tailwind CSS**.
-- 🗄️ Terbiasa merancang struktur data dan relasi tabel menggunakan **MySQL**.
-- 🛠️ Aktif membangun dan menyempurnakan proyek aplikasi nyata di GitHub sebagai portofolio teknis.
-- 🔍 Mengutamakan alur *UI/UX* yang jelas, konsistensi antarmuka, dan keterbacaan kode.
+- 🎓 Mahasiswa Informatika Universitas IPWIJA.
+- 💻 Fokus pada pengembangan web **Full-Stack** menggunakan **Laravel**, **Blade**, dan **Tailwind CSS**.
+- 🌱 Saat ini aktif mendalami arsitektur aplikasi, alur *UI/UX* yang fungsional, dan lingkungan pengembangan modern.
+- 🛠️ Senang membangun proyek-proyek eksploratif sebagai sarana latihan dan portofolio di GitHub.
+- 🔍 Selalu penasaran tentang bagaimana antarmuka *frontend* bekerja selaras dengan logika *backend* di balik layar.
+- 🎯 Terus belajar dan membangun hal-hal baru yang relevan serta enak digunakan.
 
 ---
 
@@ -26,7 +27,7 @@ Terbiasa membangun aplikasi terstruktur menggunakan **Laravel**, **Blade**, **Ta
 ### Kerangka Kerja & Pustaka
 <p align="left"><a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" /></a></p>
 
-### Basis Data
+### Basis data
 <p align="left"><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a></p>
 
 ### Alat Pengembangan
@@ -52,5 +53,3 @@ Terbiasa membangun aplikasi terstruktur menggunakan **Laravel**, **Blade**, **Ta
 <p align="left">
   <a href="https://github.com/pradityasaputradev-creator" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
-
-
