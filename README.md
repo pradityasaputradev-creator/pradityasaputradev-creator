@@ -1,4 +1,4 @@
-ni # 👋 Hai, saya Aditya!
+  # 👋 Hai, saya Aditya!
 
 **Mahasiswa Informatika Universitas IPWIJA | Full-Stack Web Developer**
 
