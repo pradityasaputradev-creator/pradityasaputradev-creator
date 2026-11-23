@@ -16,3 +16,38 @@ Saya senang bereksperimen dengan teknologi web modern, menyusun alur aplikasi ya
 - 🛠️ Senang membangun proyek-proyek eksploratif sebagai sarana latihan dan portofolio di GitHub.
 - 🔍 Selalu penasaran tentang bagaimana antarmuka *frontend* bekerja selaras dengan logika *backend* di balik layar.
 - 🎯 Terus belajar dan membangun hal-hal baru yang relevan serta enak digunakan.
+
+---
+
+## 💻 Tumpukan Teknologi & Alat
+
+### Bahasa Pemrograman
+<p align="left">
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=py" alt="Python" />
+  </a>
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=php" alt="PHP" />
+  </a>
+</p>
+
+### Kerangka Kerja & Pustaka
+<p align="left">
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" />
+  </a>
+</p>
+
+### Basis data
+<p align="left">
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
+  </a>
+</p>
+
+### Alat Pengembangan
+<p align="left">
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+  </a>
+</p>
