@@ -22,20 +22,27 @@ Saya senang bereksperimen dengan teknologi web modern, menyusun alur aplikasi ya
 ## 💻 Tumpukan Teknologi & Alat
 
 ### Bahasa Pemrograman
-<p align="left"><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=py" alt="Python" /></a>&nbsp;<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=php" alt="PHP" /></a></p>
+<p align="left">
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=php" alt="PHP" /></a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>
+</p>
 
-### Kerangka Kerja & Pustaka
-<p align="left"><a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" /></a></p>
+### Kerangka Kerja & Styling
+<p align="left">
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" /></a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" /></a>
+</p>
 
-### Basis data
-<p align="left"><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a></p>
-
-### Alat Pengembangan
-<p align="left"><a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a></p>
+### Basis Data & Alat Pengembangan
+<p align="left">
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
+</p>
 
 ---
 
-## 📊 Statistik GitHub
+## 📊 Statistik & Aktivitas GitHub
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=pradityasaputradev-creator&show_icons=true&theme=tokyonight&hide_border=true" alt="Aditya's GitHub Stats" />
@@ -43,7 +50,7 @@ Saya senang bereksperimen dengan teknologi web modern, menyusun alur aplikasi ya
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pradityasaputradev-creator&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pradityasaputradev-creator&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
@@ -51,5 +58,7 @@ Saya senang bereksperimen dengan teknologi web modern, menyusun alur aplikasi ya
 ## 🤝 Mari Terhubung
 
 <p align="left">
-  <a href="https://github.com/pradityasaputradev-creator" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.com/pradityasaputradev-creator" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
