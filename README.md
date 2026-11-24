@@ -1,4 +1,4 @@
-  # 👋 Haii, saya Aditya!
+# Hi there, I'm Aditya 👋
 
 **Mahasiswa Informatika Universitas IPWIJA | Full-Stack Web Developer**
 
