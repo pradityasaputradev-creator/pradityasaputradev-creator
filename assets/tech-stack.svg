@@ -1,53 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 175" width="420" height="175" role="img" aria-label="Tech Stack and Tools">
-  <style>
-    .title {
-      fill: #e6edf3;
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
-      font-size: 18px;
-      font-weight: 700;
-    }
-    .float-item {
-      transform-box: fill-box;
-      transform-origin: center;
-      animation: floatWave 3s ease-in-out infinite;
-    }
-    .d1 { animation-delay: 0.15s; }
-    .d2 { animation-delay: 0.30s; }
-    .d3 { animation-delay: 0.45s; }
-    .d4 { animation-delay: 0.60s; }
-    .d5 { animation-delay: 0.75s; }
+## 💻 Tumpukan Teknologi & Alat
 
-    @keyframes floatWave {
-      0%, 100% { transform: translateY(0px); }
-      50% { transform: translateY(-5px); }
-    }
-
-    @media (prefers-reduced-motion: reduce) {
-      .float-item { animation: none; }
-    }
-  </style>
-
-  <text x="210" y="28" text-anchor="middle" class="title">Tech Stack &amp; Tools</text>
-
-  
-  <g transform="translate(81, 46)">
-    
-  </g>
-  <g transform="translate(149, 46)">
-    
-  </g>
-  <g transform="translate(217, 46)">
-    
-  </g>
-  <g transform="translate(285, 46)">
-    
-  </g>
-
-  
-  <g transform="translate(149, 110)">
-    
-  </g>
-  <g transform="translate(217, 110)">
-    
-  </g>
-</svg>
+<p align="left">
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=php" alt="PHP" /></a>
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" /></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
+</p>
