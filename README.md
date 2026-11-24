@@ -22,7 +22,7 @@ Saya senang bereksperimen dengan teknologi web modern, menyusun alur aplikasi ya
 ## 💻 Tumpukan Teknologi & Alat
 
 <p align="left">
-  <img src="./assets/tech-stack.svg" alt="Tech Stack & Tools Animated" width="520" />
+  <img src="./assets/tech-stack.svg" alt="Tech Stack & Tools Animated" width="420" />
 </p>
 
 ---
@@ -36,12 +36,4 @@ Saya senang bereksperimen dengan teknologi web modern, menyusun alur aplikasi ya
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pradityasaputradev-creator&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-## 🤝 Mari Terhubung
-
-<p align="left">
-  <a href="https://github.com/pradityasaputradev-creator" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
