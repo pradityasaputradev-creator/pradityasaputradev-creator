@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 105" width="420" height="105" role="img" aria-label="Tech Stack &amp; Tools">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 510 112" width="510" height="112" role="img" aria-label="Tech Stack and Tools">
   <style>
     .card {
       fill: #161b22;
@@ -12,12 +12,6 @@
       font-weight: 600;
       text-anchor: middle;
     }
-    .badge-text {
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
-      font-size: 16px;
-      font-weight: 800;
-      text-anchor: middle;
-    }
     .float-tile {
       transform-box: fill-box;
       transform-origin: center;
@@ -27,6 +21,7 @@
     .d2 { animation-delay: 0.30s; }
     .d3 { animation-delay: 0.45s; }
     .d4 { animation-delay: 0.60s; }
+    .d5 { animation-delay: 0.75s; }
 
     @keyframes floatY {
       0%, 100% { transform: translateY(0px); }
@@ -38,43 +33,82 @@
     }
   </style>
 
+  
   <g transform="translate(8, 10)">
     <g class="float-tile">
-      <rect x="0" y="0" width="64" height="64" rx="14" class="card" />
-      <text x="32" y="38" class="badge-text" fill="#3776AB">PY</text>
-      <text x="32" y="82" class="label">Python</text>
+      <rect x="0" y="0" width="66" height="66" rx="15" class="card" />
+      <g transform="translate(15, 14)">
+        <path d="M18 2c-7 0-6.5 3-6.5 3v3h6.8v1H9s-7.5-.8-7.5 6.8 6.5 7.4 6.5 7.4h3.9v-3.5s-.2-3.8 3.7-3.8h6.4s3.6.1 3.6-3.5V5.5S26.2 2 18 2zm-3.6 2c.7 0 1.2.5 1.2 1.2s-.5 1.2-1.2 1.2-1.2-.5-1.2-1.2.5-1.2 1.2-1.2z" fill="#3776AB" />
+        <path d="M18 34c7 0 6.5-3 6.5-3v-3h-6.8v-1H27s7.5.8 7.5-6.8-6.5-7.4-6.5-7.4h-3.9v3.5s.2 3.8-3.7 3.8h-6.4s-3.6-.1-3.6 3.5v5.8S9.8 34 18 34zm3.6-2c-.7 0-1.2-.5-1.2-1.2s.5-1.2 1.2-1.2 1.2.5 1.2 1.2-.5 1.2-1.2 1.2z" fill="#FFD43B" />
+      </g>
+      <text x="33" y="85" class="label">Python</text>
     </g>
   </g>
 
-  <g transform="translate(84, 10)">
+  
+  <g transform="translate(90, 10)">
     <g class="float-tile d1">
-      <rect x="0" y="0" width="64" height="64" rx="14" class="card" />
-      <text x="32" y="38" class="badge-text" fill="#777BB4">PHP</text>
-      <text x="32" y="82" class="label">PHP</text>
+      <rect x="0" y="0" width="66" height="66" rx="15" class="card" />
+      <ellipse cx="33" cy="33" rx="22" ry="12" fill="#777BB4" />
+      <text x="33" y="37" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="800" font-style="italic" text-anchor="middle">php</text>
+      <text x="33" y="85" class="label">PHP</text>
     </g>
   </g>
 
-  <g transform="translate(160, 10)">
+  
+  <g transform="translate(172, 10)">
     <g class="float-tile d2">
-      <rect x="0" y="0" width="64" height="64" rx="14" class="card" />
-      <text x="32" y="38" class="badge-text" fill="#FF2D20">LV</text>
-      <text x="32" y="82" class="label">Laravel</text>
+      <rect x="0" y="0" width="66" height="66" rx="15" class="card" />
+      <g transform="translate(15, 15)" stroke="#FF2D20" stroke-width="2" stroke-linejoin="round" fill="none">
+        <polygon points="18,3 32,11 18,19 4,11" fill="#FF2D20" fill-opacity="0.25" />
+        <polygon points="4,11 18,19 18,34 4,26" />
+        <polygon points="32,11 18,19 18,34 32,26" />
+      </g>
+      <text x="33" y="85" class="label">Laravel</text>
     </g>
   </g>
 
-  <g transform="translate(236, 10)">
+  
+  <g transform="translate(254, 10)">
     <g class="float-tile d3">
-      <rect x="0" y="0" width="64" height="64" rx="14" class="card" />
-      <text x="32" y="38" class="badge-text" fill="#4479A1">SQL</text>
-      <text x="32" y="82" class="label">MySQL</text>
+      <rect x="0" y="0" width="66" height="66" rx="15" class="card" />
+      <g transform="translate(16, 15)" fill="none" stroke="#4479A1" stroke-width="2.2">
+        <ellipse cx="17" cy="6" rx="12" ry="4" fill="#4479A1" fill-opacity="0.3" />
+        <path d="M5 6v18c0 2.2 5.4 4 12 4s12-1.8 12-4V6" />
+        <path d="M5 15c0 2.2 5.4 4 12 4s12-1.8 12-4" />
+      </g>
+      <text x="33" y="85" class="label">MySQL</text>
     </g>
   </g>
 
-  <g transform="translate(312, 10)">
+  
+  <g transform="translate(336, 10)">
     <g class="float-tile d4">
-      <rect x="0" y="0" width="64" height="64" rx="14" class="card" />
-      <text x="32" y="38" class="badge-text" fill="#f0f6fc">GH</text>
-      <text x="32" y="82" class="label">GitHub</text>
+      <rect x="0" y="0" width="66" height="66" rx="15" class="card" />
+      <g transform="translate(13, 16)">
+        <rect x="7" y="10" width="5" height="4" rx="0.8" fill="#2496ED" />
+        <rect x="13" y="10" width="5" height="4" rx="0.8" fill="#2496ED" />
+        <rect x="19" y="10" width="5" height="4" rx="0.8" fill="#2496ED" />
+        <rect x="13" y="5" width="5" height="4" rx="0.8" fill="#2496ED" />
+        <rect x="19" y="5" width="5" height="4" rx="0.8" fill="#2496ED" />
+        <path d="M2 16h34c-.7 7.5-6.6 12-15.5 12-8.2 0-14-3.7-16.8-9.5-1.5.7-3.4.5-3.7-2.5z" fill="#2496ED" />
+        <path d="M35 15c2-.8 4-.3 4.8 1.2-1.5.8-3.2.6-4.8-1.2z" fill="#2496ED" />
+      </g>
+      <text x="33" y="85" class="label">Docker</text>
+    </g>
+  </g>
+
+  
+  <g transform="translate(418, 10)">
+    <g class="float-tile d5">
+      <rect x="0" y="0" width="66" height="66" rx="15" class="card" />
+      <g transform="translate(15, 15)">
+        <circle cx="18" cy="18" r="15" fill="#f0f6fc" />
+        <circle cx="13" cy="16" r="2.2" fill="#161b22" />
+        <circle cx="23" cy="16" r="2.2" fill="#161b22" />
+        <path d="M12 24c1.8 2 4.2 3 6 3s4.2-1 6-3" fill="none" stroke="#161b22" stroke-width="2.2" stroke-linecap="round" />
+      </g>
+      <text x="33" y="85" class="label">GitHub</text>
     </g>
   </g>
 </svg>
