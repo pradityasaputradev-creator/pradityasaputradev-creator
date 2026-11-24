@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 105" width="420" height="105" role="img" aria-label="Tech Stack &amp; Tools">
+  <style>
+    .card {
+      fill: #161b22;
+      stroke: #30363d;
+      stroke-width: 1.5;
+    }
+    .label {
+      fill: #e6edf3;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+      font-size: 11px;
+      font-weight: 600;
+      text-anchor: middle;
+    }
+    .badge-text {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+      font-size: 16px;
+      font-weight: 800;
+      text-anchor: middle;
+    }
+    .float-tile {
+      transform-box: fill-box;
+      transform-origin: center;
+      animation: floatY 3s ease-in-out infinite;
+    }
+    .d1 { animation-delay: 0.15s; }
+    .d2 { animation-delay: 0.30s; }
+    .d3 { animation-delay: 0.45s; }
+    .d4 { animation-delay: 0.60s; }
+
+    @keyframes floatY {
+      0%, 100% { transform: translateY(0px); }
+      50% { transform: translateY(-6px); }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      .float-tile { animation: none; }
+    }
+  </style>
+
+  <g transform="translate(8, 10)">
+    <g class="float-tile">
+      <rect x="0" y="0" width="64" height="64" rx="14" class="card" />
+      <text x="32" y="38" class="badge-text" fill="#3776AB">PY</text>
+      <text x="32" y="82" class="label">Python</text>
+    </g>
+  </g>
+
+  <g transform="translate(84, 10)">
+    <g class="float-tile d1">
+      <rect x="0" y="0" width="64" height="64" rx="14" class="card" />
+      <text x="32" y="38" class="badge-text" fill="#777BB4">PHP</text>
+      <text x="32" y="82" class="label">PHP</text>
+    </g>
+  </g>
+
+  <g transform="translate(160, 10)">
+    <g class="float-tile d2">
+      <rect x="0" y="0" width="64" height="64" rx="14" class="card" />
+      <text x="32" y="38" class="badge-text" fill="#FF2D20">LV</text>
+      <text x="32" y="82" class="label">Laravel</text>
+    </g>
+  </g>
+
+  <g transform="translate(236, 10)">
+    <g class="float-tile d3">
+      <rect x="0" y="0" width="64" height="64" rx="14" class="card" />
+      <text x="32" y="38" class="badge-text" fill="#4479A1">SQL</text>
+      <text x="32" y="82" class="label">MySQL</text>
+    </g>
+  </g>
+
+  <g transform="translate(312, 10)">
+    <g class="float-tile d4">
+      <rect x="0" y="0" width="64" height="64" rx="14" class="card" />
+      <text x="32" y="38" class="badge-text" fill="#f0f6fc">GH</text>
+      <text x="32" y="82" class="label">GitHub</text>
+    </g>
+  </g>
+</svg>
