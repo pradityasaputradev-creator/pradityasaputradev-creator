@@ -1,1 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 390" width="820" height="390" role="img" aria-label="Praditya Full-Stack Developer Terminal Card">
+  <style>
+    .win-bg { fill: #0d1117; stroke: #30363d; stroke-width: 1.5; }
+    .bar-bg { fill: #161b22; }
+    .title { fill: #8b949e; font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; font-size: 12px; }
+    .host { fill: #ff7b72; font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; font-size: 16px; font-weight: 700; text-decoration: underline; }
+    .key { fill: #e6edf3; font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; font-size: 13px; font-weight: 700; }
+    .val { fill: #79c0ff; font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; font-size: 13px; }
+    .ascii { fill: #38bdf8; font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; font-size: 12px; }
+    .prompt { fill: #56d364; font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; font-size: 13px; font-weight: 700; }
+    .cursor { fill: #58a6ff; animation: blink 1s step-end infinite; }
 
+    @keyframes blink {
+      0%, 49% { opacity: 1; }
+      50%, 100% { opacity: 0; }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      .cursor { animation: none; opacity: 1; }
+    }
+  </style>
+
+  
+  <rect x="8" y="8" width="804" height="374" rx="12" class="win-bg" />
+  <path d="M8 20 C8 13.4 13.4 8 20 8 L800 8 C806.6 8 812 13.4 812 20 L812 40 L8 40 Z" class="bar-bg" />
+  <circle cx="28" cy="24" r="5.5" fill="#ff5f56" />
+  <circle cx="46" cy="24" r="5.5" fill="#ffbd2e" />
+  <circle cx="64" cy="24" r="5.5" fill="#27c93f" />
+  <text x="410" y="28" text-anchor="middle" class="title">pradityasaputradev@github: ~</text>
+
+  
+  <g transform="translate(52, 75)">
+    <text x="0" y="0" class="ascii">      .:::::.</text>
+    <text x="0" y="16" class="ascii">    .:::::::::.</text>
+    <text x="0" y="32" class="ascii">   .:: FULL ::.</text>
+    <text x="0" y="48" class="ascii">   ::: STACK :::</text>
+    <text x="0" y="64" class="ascii">   '::: DEV :::'</text>
+    <text x="0" y="80" class="ascii">    ':::::::::'</text>
+    <text x="0" y="96" class="ascii">      ':::::'</text>
+    <text x="0" y="120" class="ascii">    .-----------.</text>
+    <text x="0" y="136" class="ascii">   /  [&gt;_ term]  \</text>
+    <text x="0" y="152" class="ascii">  |  PHP / LV   |</text>
+    <text x="0" y="168" class="ascii">   \  SQL / PY  /</text>
+    <text x="0" y="184" class="ascii">    '-----------'</text>
+  </g>
+
+  
+  <g transform="translate(275, 72)">
+    <text x="0" y="0" class="host">pradityasaputradev-creator@github</text>
+
+    <text x="0" y="28"><tspan class="key">Role: </tspan><tspan class="val">Full-Stack Web Developer</tspan></text>
+    <text x="0" y="48"><tspan class="key">Education: </tspan><tspan class="val">Informatics Student @ Universitas IPWIJA</tspan></text>
+    <text x="0" y="68"><tspan class="key">Stack.Frontend: </tspan><tspan class="val">Blade, Tailwind CSS, HTML, CSS, JavaScript</tspan></text>
+    <text x="0" y="88"><tspan class="key">Stack.Backend: </tspan><tspan class="val">PHP, Laravel</tspan></text>
+    <text x="0" y="108"><tspan class="key">Stack.Scripting: </tspan><tspan class="val">Python</tspan></text>
+    <text x="0" y="128"><tspan class="key">Stack.Database: </tspan><tspan class="val">MySQL</tspan></text>
+    <text x="0" y="148"><tspan class="key">Environment: </tspan><tspan class="val">Docker, Git, GitHub, VS Code</tspan></text>
+    <text x="0" y="168"><tspan class="key">Contact.GitHub: </tspan><tspan class="val">github.com/pradityasaputradev-creator</tspan></text>
+
+    
+    <g transform="translate(0, 192)">
+      <rect x="0" y="0" width="14" height="14" rx="2" fill="#21262d" stroke="#484f58" />
+      <rect x="20" y="0" width="14" height="14" rx="2" fill="#f85149" />
+      <rect x="40" y="0" width="14" height="14" rx="2" fill="#3fb950" />
+      <rect x="60" y="0" width="14" height="14" rx="2" fill="#d29922" />
+      <rect x="80" y="0" width="14" height="14" rx="2" fill="#58a6ff" />
+      <rect x="100" y="0" width="14" height="14" rx="2" fill="#bc8cff" />
+      <rect x="120" y="0" width="14" height="14" rx="2" fill="#39c5cf" />
+      <rect x="140" y="0" width="14" height="14" rx="2" fill="#f0f6fc" />
+    </g>
+
+    
+    <g transform="translate(0, 232)">
+      <text x="0" y="0" class="prompt">└─(praditya@github-[~])</text>
+      <text x="0" y="18"><tspan class="prompt">└─$ </tspan><tspan class="val">full-stack web developer</tspan><tspan class="cursor" dx="2">▋</tspan></text>
+    </g>
+  </g>
+</svg>
