@@ -1,77 +1,55 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/pangeran-droid/pangeran-droid/refs/heads/main/assets/profile.svg" alt="animated ascii profile card" width="100%" />
-</p>
+# Hi there, I'm Aditya 👋
 
-<br>
+**Mahasiswa Informatika Universitas IPWIJA | Full-Stack Web Developer**
 
----
+Saya adalah mahasiswa Informatika di **Universitas IPWIJA** yang berfokus pada pengembangan web **Full-Stack**, mulai dari perancangan antarmuka hingga logika sistem dan *backend*.
 
-<h3 align="center">Connect With Me</h3>
-
-<p align="center">
-  <a href="https://github.com/pangeran-droid">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://t.me/pangeran1337">
-    <img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=26A5E4" alt="Telegram"/>
-  </a>
-  <a href="mailto:ranject6@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/>
-  </a>
-  <a href="https://discord.gg/7rvj3xkZ">
-    <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord"/>
-  </a>
-</p>
-
-<br>
+Saya senang bereksperimen dengan teknologi web modern, menyusun alur aplikasi yang rapi, dan membangun proyek-proyek menantang untuk terus meningkatkan keterampilan teknis saya.
 
 ---
 
-<h3 align="center">Tech Stack & Tools</h3>
+## 🚀 Tentang Saya
 
-<p align="center">
-  <a href="https://raw.githubusercontent.com/pangeran-droid/pangeran-droid/refs/heads/main/assets/skills.svg">
-    <img src="https://raw.githubusercontent.com/pangeran-droid/pangeran-droid/refs/heads/main/assets/skills.svg" alt="My Skills" />
-  </a>
-</p>
-
-<br>
-
----
-
-<h3 align="center">Github Stats</h3>
-
-<p align="center">
-  <img height="195" src="https://raw.githubusercontent.com/pangeran-droid/pangeran-droid/refs/heads/main/assets/languages-card.svg" alt="Top Languages Card" />
-  &nbsp;&nbsp;
-  <img height="195" src="https://raw.githubusercontent.com/pangeran-droid/pangeran-droid/refs/heads/main/assets/languages-pie.svg" alt="Top Languages Pie Chart" />
-</p>
-
-<br>
+- 🎓 Mahasiswa Informatika Universitas IPWIJA.
+- 💻 Fokus pada pengembangan web **Full-Stack** menggunakan **Laravel**, **Blade**, dan **Tailwind CSS**.
+- 🌱 Saat ini aktif mendalami arsitektur aplikasi, alur *UI/UX* yang fungsional, dan lingkungan pengembangan modern.
+- 🛠️ Senang membangun proyek-proyek eksploratif sebagai sarana latihan dan portofolio di GitHub.
+- 🔍 Selalu penasaran tentang bagaimana antarmuka *frontend* bekerja selaras dengan logika *backend* di balik layar.
+- 🎯 Terus belajar dan membangun hal-hal baru yang relevan serta enak digunakan.
 
 ---
 
-<h3 align="center">Contribution Activity</h3>
+## 💻 Tumpukan Teknologi & Alat
 
-<div align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/pangeran-droid/pangeran-droid/pacman-output/pacman-contribution-graph-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/pangeran-droid/pangeran-droid/pacman-output/pacman-contribution-graph.svg"
-    />
-    <img
-      alt="github-contribution-pacman"
-      src="https://raw.githubusercontent.com/pangeran-droid/pangeran-droid/pacman-output/pacman-contribution-graph-dark.svg"
-    />
-  </picture>
-</div>
+### Bahasa Pemrograman
+<p align="left"><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=py" alt="Python" /></a>&nbsp;<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=php" alt="PHP" /></a></p>
+
+### Kerangka Kerja & Pustaka
+<p align="left"><a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" /></a></p>
+
+### Basis data
+<p align="left"><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a></p>
+
+### Alat Pengembangan
+<p align="left"><a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a></p>
+
+---
+
+## 📊 Statistik GitHub
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=pradityasaputradev-creator&show_icons=true&theme=tokyonight&hide_border=true" alt="Aditya's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradityasaputradev-creator&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pradityasaputradev-creator&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🤝 Mari Terhubung
+
+<p align="left">
+  <a href="https://github.com/pradityasaputradev-creator" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
