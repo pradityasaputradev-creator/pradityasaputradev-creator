@@ -6,6 +6,8 @@ Saya adalah mahasiswa Informatika di **Universitas IPWIJA** yang berfokus pada p
 
 Saya senang bereksperimen dengan teknologi web modern, menyusun alur aplikasi yang rapi, dan membangun proyek-proyek menantang untuk terus meningkatkan keterampilan teknis saya.
 
+---
+
 ## 🚀 Tentang Saya
 
 - 🎓 Mahasiswa Informatika Universitas IPWIJA.
@@ -14,6 +16,8 @@ Saya senang bereksperimen dengan teknologi web modern, menyusun alur aplikasi ya
 - 🛠️ Senang membangun proyek-proyek eksploratif sebagai sarana latihan dan portofolio di GitHub.
 - 🔍 Selalu penasaran tentang bagaimana antarmuka *frontend* bekerja selaras dengan logika *backend* di balik layar.
 - 🎯 Terus belajar dan membangun hal-hal baru yang relevan serta enak digunakan.
+
+---
 
 ## 💻 Tumpukan Teknologi & Alat
 
@@ -29,6 +33,8 @@ Saya senang bereksperimen dengan teknologi web modern, menyusun alur aplikasi ya
 ### Alat Pengembangan
 <p align="left"><a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>&nbsp;<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a></p>
 
+---
+
 ## 📊 Statistik GitHub
 
 <p align="left">
@@ -39,6 +45,8 @@ Saya senang bereksperimen dengan teknologi web modern, menyusun alur aplikasi ya
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pradityasaputradev-creator&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
+
+---
 
 ## 🤝 Mari Terhubung
 
