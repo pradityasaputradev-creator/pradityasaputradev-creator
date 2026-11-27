@@ -31,7 +31,7 @@ Saya senang bereksperimen dengan teknologi web modern, menyusun alur aplikasi ya
 <p align="left"><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a></p>
 
 ### Alat Pengembangan
-<p align="left"><a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>&nbsp;<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a></p>
+<p align="left"><a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>&nbsp;<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>&nbsp;<a href="https://n8n.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/n8n-242938?style=for-the-badge&logo=n8n&logoColor=EA4B71" height="48" alt="n8n" /></a></p>
 
 ---
 
